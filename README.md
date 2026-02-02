@@ -16,7 +16,7 @@ The project focuses on:
 - topic-based chatrooms
 - real-time communication using SignalR
 - cloud hosting and infrastructure on Azure
-- 
+
 👉 Repository: https://github.com/naz-burgenbay/misty
 
 ### 📌 Goals
