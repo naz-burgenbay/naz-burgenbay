@@ -53,6 +53,6 @@ Git, Azure CLI
 
 ## Contact
 
-[nazburgenbay@outlook.com](mailto:nazburgenbay@outlook.com)  
+E-mail: [nazburgenbay@outlook.com](mailto:nazburgenbay@outlook.com)  
 GitHub: https://github.com/naz-burgenbay  
 LinkedIn: https://linkedin.com/in/naz-burgenbay
